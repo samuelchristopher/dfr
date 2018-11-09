@@ -1,0 +1,22 @@
+{
+  "name": "dfr",
+  "version": "1.0.0",
+  "description": "database for reminders (dfr) will allow admin to key in data of customers. Then send each customer a email / sms reminder to pay before their deadline, by next two weeks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelchristopher/dfr.git"
+  },
+  "author": "Samuel Paul Christopher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelchristopher/dfr/issues"
+  },
+  "homepage": "https://github.com/samuelchristopher/dfr#readme",
+  "devDependencies": {
+    "dotenv": "^6.1.0"
+  }
+}
